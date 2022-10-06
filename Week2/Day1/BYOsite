@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Outdoor World!</title>
+</head>
+<h1>My Outdoor World!</h1>
+<img src="clearlakes.jpg" alt="clear lake image">
+<img src="donpedrolake.jpg" alt="don pedro lake image" height="177">
+<img src="woodwardreservoir.jpg" alt="woodward reservoir image" height="177">
+<img src="yosemite.jpg" alt="josemite image" height="177">
+<img src="camanchelake.jpg" alt="camanche lake image" height="177">
+<img src="glassbeach.png" alt="glass beach image" height="177" width="300">
+<body>
+    <p>Every summer, we spend time with friends and relatives outdoor. This is the season to inwind and spend a day out with nature stress-free.</p>
+    <p>We've been doing this since 2010 and every year we are always look forward for summer as this is the best season to do some outdoor activities.</p>
+    <p>We also love driving around California coast line to feel the ocean breeze and camp out by the bay and watch over the sunset.</p>
+    <p>If camping is not everyone's choice for next year's activity, we normally travel to Southern California to go to Universal Studios or Disney Land Park for the kids.</p>
+    <h3>Here are the places we've been to:</h3>
+    <ul>
+        <li>Clear Lake</li>
+        <li>Don Pedro Lake</li>
+        <li>Camanche Lake</li>
+        <li>Yosemite</li>
+        <li>Woodward Lake</li>
+        <li>Pismo Beach</li>
+        <li>Mendocino Glass Beach</li>
+    </ul>
+    <table>
+        <tr>
+            <th>County</th>
+            <th>Images</th>
+            <th>Reservations</th>
+        </tr>
+        <tr>
+            <td>Mendocino</td>
+            <td><a href="https://www.google.com/search?q=mendocino+images&rlz=1C1CHZN_enUS1011US1011&sxsrf=ALiCzsZ33fC-DMTC4LBioXmasAL5-Loo4A:1664828404479&source=lnms&tbm=isch&sa=X&ved=2ahUKEwinuKSN8cT6AhXuKkQIHYIUB8MQ_AUoAXoECAIQAw&biw=1920&bih=872&dpr=1">Link</a></td>
+            <td><a href="https://www.mendocinovacations.com/">Mendocino Coast Reservation</a></td>
+        </tr>
+        <tr>
+            <td>Ione</td>
+            <td><a href="https://www.google.com/search?q=ione+county+images&rlz=1C1CHZN_enUS1011US1011&sxsrf=ALiCzsaZJPy6xK5VhZ5l9wO95mnQ9qTQzw:1664828727699&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjBnrSn8sT6AhWlMEQIHU7HC4gQ_AUoAXoECAEQAw&biw=1920&bih=872&dpr=1">Link</a></td>
+            <td><a href="https://www.golakecamanche.com/">Camanche Lake</a></td>
+        </tr>
+        <tr>
+            <td>Yosemite</td>
+            <td><a href="https://www.google.com/search?q=Yosemite+Images&rlz=1C1CHZN_enUS1011US1011&sxsrf=ALiCzsby-7wZV_mDwLICNY0fj8TGCG3Ghw:1664828919673&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiApfmC88T6AhVAL0QIHZZ1DNsQ_AUoAXoECAEQAw&biw=1920&bih=872&dpr=1">Link</a></td>
+            <td><a href="https://www.nps.gov/yose/planyourvisit/reservations.htm">Yosemite Park</a></td>
+        </tr>
+        <tr>
+            <td>Maripos</td>
+            <td><a href="https://www.google.com/search?q=don+pedro+lake+images&rlz=1C1CHZN_enUS1011US1011&sxsrf=ALiCzsacmGke12xWTeHPAiUwCQ3qcbPBXg:1664829113667&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSnrnf88T6AhWIIjQIHdjfB7wQ_AUoAXoECAIQAw&biw=1920&bih=872&dpr=1">Link</a></td>
+            <td><a href="https://www.donpedrolake.com/reservations/">Don Pedro Lake</a></td>
+        </tr>
+    </table>
+<h3>Contact Us:</h3>
+<form action="Information">
+    <label for="fname:">Full Name:</label><input type="text"><br><br>
+    <label for="eadd:">Email Address:</label><input type="text"><br><br>
+    <textarea name="message" id="message" cols="50" rows="10">Type your message here</textarea><br>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
+    
+    
+
+    
+
+
+
+
+        
+ 
